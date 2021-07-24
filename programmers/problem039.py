@@ -1,4 +1,5 @@
 def solution(A, B):
+    #sorting
     A.sort(reverse=True)
     B.sort(reverse=True)
     a, b = 0, 0
