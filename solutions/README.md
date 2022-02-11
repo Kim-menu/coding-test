@@ -89,3 +89,4 @@
 89. [programmers] N개의 최소공배수
 90. [programmers] JadenCase 문자열 만들기
 91. [programmers] 행렬의 곱셈
+92. [programmers] 피보나치 수
