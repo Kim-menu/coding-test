@@ -92,3 +92,4 @@
 92. [programmers] 피보나치 수
 93. [programmers] 최솟값 구하기
 94. [programmers] 최댓값과 최솟값
+95. [programmers] 숫자의 표현
