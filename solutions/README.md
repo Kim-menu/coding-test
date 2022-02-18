@@ -93,3 +93,4 @@
 93. [programmers] 최솟값 구하기
 94. [programmers] 최댓값과 최솟값
 95. [programmers] 숫자의 표현
+96. [programmers] 땅따먹기
