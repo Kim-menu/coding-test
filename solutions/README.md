@@ -94,3 +94,4 @@
 94. [programmers] 최댓값과 최솟값
 95. [programmers] 숫자의 표현
 96. [programmers] 땅따먹기
+97. [programmers] 다음 큰 숫자
