@@ -97,3 +97,4 @@
 97. [programmers] 다음 큰 숫자
 98. [programmers] 올바른 괄호
 99. [programmers] 가장 큰 정사각형 찾기
+100. [programmers] 모든 레코드 조회하기
