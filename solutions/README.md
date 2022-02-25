@@ -98,3 +98,4 @@
 98. [programmers] 올바른 괄호
 99. [programmers] 가장 큰 정사각형 찾기
 100. [programmers] 모든 레코드 조회하기
+101. [programmers] DATETIME에서 DATE로 형 변환
