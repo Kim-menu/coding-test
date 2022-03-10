@@ -103,3 +103,4 @@
 103. [programmers] 없어진 기록 찾기
 104. [programmers] 있었는데요 없었습니다
 105. [programmers] 오랜 기간 보호한 동물(1)
+106. [programmers] 오랜 기간 보호한 동물(2)
